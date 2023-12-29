@@ -55,8 +55,8 @@ Functions of the playbook:
 
 ### Built With
 
-* ![Programming Language :: Python :: 3.7](https://www.python.org/)
-* ![Programming Language :: Pygame :: 2.1.2](https://www.pygame.org/news)
+* [Programming Language :: Python :: 3.7](https://www.python.org/)
+* [Programming Language :: Pygame :: 2.1.2](https://www.pygame.org/news)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,9 +102,9 @@ Edit your play on the [court](/info/court.jpg)
 
 Functions of the playbook:
 * [Drawing lines with RGB colors](/info/colorpicker.jpg)
-* ![Create multiple stages of a play](https://youtu.be/xIRyIBRq4f0)
-* ![Canvas Edit](https://youtu.be/oSktTL51x68)
-* ![Replay mode to review the plays](https://youtu.be/cUN5b4UNa5A)
+* [Create multiple stages of a play](https://youtu.be/xIRyIBRq4f0)
+* [Canvas Edit](https://youtu.be/oSktTL51x68)
+* [Replay mode to review the plays](https://youtu.be/cUN5b4UNa5A)
 
 Saving directory
    ```
