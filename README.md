@@ -55,8 +55,10 @@ Functions of the playbook:
 
 ### Built With
 
-* [Programming Language :: Python :: 3.7](https://www.python.org/)
-* [Programming Language :: Pygame :: 2.1.2](https://www.pygame.org/news)
+* [![Static Badge](https://img.shields.io/badge/Python-3.7-green)
+](https://www.python.org/)
+* [![Static Badge](https://img.shields.io/badge/Pygame-2.1.2-green)
+](https://www.pygame.org/news)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
